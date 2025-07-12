@@ -15,19 +15,19 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Silva MD Bot*
+*💪 Empowering Your Experience with Caseyrhodes MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 https://github.com/caseyweb/CASEYRHODES-XMD
 
 *💭 Need help? Join our support groups:*
 📢 💬
-https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
+https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
 
 *📚 Learn & Explore More with Tutorials:*
-🪄 YouTube Channel https://www.youtube.com/@silvaedits254
+🪄 YouTube Channel https://www.youtube.com/@Caseyrhodes01
 
-*🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by Caseyrhodes MD Bot & Silva Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
