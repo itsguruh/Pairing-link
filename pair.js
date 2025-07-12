@@ -27,8 +27,8 @@ function randomMegaId(length = 6, numberLength = 4) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-            email: 'sylivanus.silva@gmail.com',
-            password: 'Sylivanus70014316s'
+            email: 'palvinkibet46@gmail.com',
+            password: 'kibe@2030'
         }).ready;
         console.log('Mega storage initialized.');
         if (!fs.existsSync(credsPath)) {
@@ -114,7 +114,7 @@ router.get('/', async (req, res) => {
                                 isForwarded: true,
                                 forwardedNewsletterMessageInfo: {
                                     newsletterJid: '120363200367779016@newsletter',
-                                    newsletterName: 'SILVA SESSION GEN 💖',
+                                    newsletterName: 'CASEYRHODES SESSION GEN 💖',
                                     serverMessageId: 143
                                 }
                             }
