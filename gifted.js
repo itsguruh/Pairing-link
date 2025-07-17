@@ -30,7 +30,7 @@ app.listen(PORT, () => {
   console.log(`
 Deployment Successful!
 
-Silva-Session-Server Running on http://localhost:` + PORT)
+Caseyrhodes-Session-Server Running on http://localhost:` + PORT)
 });
 
 module.exports = app;
