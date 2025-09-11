@@ -1,22 +1,23 @@
 {
-    "name": "Kerm Session Generator",
-    "description": "I'm Web Session Generator by Kg Tech",
-    "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
-    "keywords": ["@Xcelsama"],
-    "success_url": "/", 
-    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
-    "env": {      
-      "PORT": {
-        "description": "Port for web app.4000,5000,3000... any!",
-        "value": "5000",
-        "required": false 
-      },
-      "MESSAGE": {
-        "description": "",
-        "value": "",
-        "required": false 
-      }
-    }   
-
+  "name": "CRYPTIX-MD Session Generator",
+  "description": "⚡ Stylish Multi-Device WhatsApp Session Generator for CRYPTIX-MD 🤖",
+  "logo": "https://i.ibb.co/4Rk7tBt/cryptix-logo.png",
+  "repository": "https://github.com/itsguruh/Pairing-link",
+  "keywords": ["CRYPTIX-MD", "whatsapp", "multi-device", "baileys", "bot"],
+  "success_url": "/",
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" }
+  ],
+  "env": {
+    "PORT": {
+      "description": "Port for web app (4000, 5000, 3000... any!)",
+      "value": "5000",
+      "required": false
+    },
+    "MESSAGE": {
+      "description": "Custom welcome message displayed on CRYPTIX-MD",
+      "value": "Welcome to ⚡ CRYPTIX-MD Session Generator 🤖",
+      "required": false
+    }
+  }
 }
