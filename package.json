@@ -1,14 +1,26 @@
 {
   "name": "CRYPTIX-MD",
   "version": "10.8.1",
-  "description": "Cryptix-md latest multi device whatsapp bot",
+  "description": "⚡ CRYPTIX-MD — A stylish, fast & powerful WhatsApp Multi-Device Bot 🤖",
   "main": "app.js",
+  "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  },
   "scripts": {
     "start": "node app.js",
     "stop": "pm2 stop CRYPTIX-MD",
     "restart": "pm2 restart CRYPTIX-MD"
   },
-  "keywords": ["CRYPTIX-MD", "whatsapp-bot", "whatsapp md bot"],
-  "author": "itsguruh",
+  "keywords": [
+    "CRYPTIX-MD",
+    "whatsapp-bot",
+    "multi-device",
+    "baileys",
+    "automation",
+    "chatbot",
+    "stylish-bot"
+  ],
+  "author": "itsguruh <cryptixmd@gmail.com>",
   "license": "ISC"
 }
